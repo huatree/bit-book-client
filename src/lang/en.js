@@ -94,7 +94,7 @@ const messages = {
     startDownload: 'Start download...',
     progressDownload: 'Downloading：$1',
     downloadFirst: 'Please download book first',
-    welcome: 'Welcome to visit bitbook<br>Learning "Practical WeChat Reading - Enterprise Web Book Store of Amami Native APP"<br>--------  Author: Sam  --------',
+    welcome: 'Welcome to visit bitbook<br>--------  Team: Zui Meng Fu Hua  --------',
     find: 'Go to book store',
     changeLanguage: 'Change Language',
     studyNow: 'Learn on bitbook.com'
